@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prodigy infotech task 2", "Prodigy infotech task 2\Prodigy infotech task 2.csproj", "{D489A427-06D5-4A21-B781-EE096B473E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D489A427-06D5-4A21-B781-EE096B473E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D489A427-06D5-4A21-B781-EE096B473E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D489A427-06D5-4A21-B781-EE096B473E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D489A427-06D5-4A21-B781-EE096B473E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {821D7A6C-AC1F-4DA9-A4E6-4DD9C4B26299}
+	EndGlobalSection
+EndGlobal
